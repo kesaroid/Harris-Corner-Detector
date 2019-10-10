@@ -1,6 +1,5 @@
 # Kesar TN
-# University of Central Florida
-# kesar@Knights.ucf.edu
+# kesartn@gmail.com
 
 import numpy as np
 from PIL import Image
